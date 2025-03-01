@@ -1,2 +1,2 @@
 # metaJS
-course era javascript course
+course era javascript course.
