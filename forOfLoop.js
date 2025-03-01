@@ -13,7 +13,7 @@ logDairy();
 const animal = {
     canJump: true
 };
-
+ 
 const bird = Object.create(animal);
 
 bird.canFly = true;
