@@ -1,4 +1,4 @@
-const fruits=["apple","orange","mango","papaya"];
+const fruits=["apple","ornge","mango","papaya"];
 
 function appendix(fruit,index){
     console.log(`${index} : ${fruit}`);
